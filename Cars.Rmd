@@ -1,6 +1,6 @@
 ---
 title: "Car Data"
-author: ""
+author: "S Iman"
 output: ioslides_presentation
 ---
 
